@@ -1,0 +1,6 @@
+A pasta 20241205 contém os arquivos feitos em 05/12 com um erro de conflito de nomes (Pasta), que foi corrigido nos códigos em ArquivoPastaSuspensaJson. 
+
+Em ArquivoPastaSuspensaJson foi continuado para gravar os dados em json. Foi feito um arquivo de pastas suspensas com várias pastas e as pastas salvas num arquivo json. Foi aproveitado o código anterior em 20241205.
+ 
+Na  Pasta Banco de dados 1 vamos construir um pequeno banco de dados com informações que são guardadas num banco de dados e para casa será converter o arquivo json do codigo anterior para um banco de dados. 
+
